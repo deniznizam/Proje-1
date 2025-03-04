@@ -1,3 +1,3 @@
 # Proje-1
 
-Bu proje pg4Admin üzerinde yapılan öğrenim çalışmaları sonucu oluşmuştur.
+Bu proje pgAdmin 4 üzerinde yapılan öğrenim çalışmaları sonucu oluşmuştur.
